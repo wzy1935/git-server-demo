@@ -1,0 +1,1 @@
+You can add any repository here. But after adding it, remember to run `git update-server-info` in the  repo folder.
