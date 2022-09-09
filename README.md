@@ -21,3 +21,8 @@ If you need to add more repository for test, please run `git update-server-info`
 
 Now you can access to this repo on your own server at `http://user1:123456@localhost:8080/git-server-demo.git`.
 
+
+
+## Notice
+
+This repository is only for demonstration of git protocol. The code is unstable and can not be used in any formal project.
